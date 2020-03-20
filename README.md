@@ -1,4 +1,15 @@
-# Awesome Project Build with TypeORM
+## Awesome Project API Built with
+
+-TypeORM
+-Typescript
+-expressjs
+-postgresql
+
+---
+
+### ref
+
+---
 
 400 Bad Request Error:
 Used when user fails to include a field (like no credit card information in a payment form)
